@@ -1,0 +1,140 @@
+.List1{
+    background-color: rgb(245, 248, 247);
+    padding-right: 20%;
+    margin: 50px;
+      }
+.list2{
+    margin-left:50px;
+      }
+.div1{
+  width: 200px;
+  height: 200px;
+  background-color: #610C63;
+  position: relative;
+  left: 700PX;
+  border-radius: 20%;
+}
+.demo1{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  border-radius: 75%;
+}
+.div2{
+  width:200px;
+  height:200px;
+  background-color:#937DC2;
+  position:absolute;
+  left: 310PX;
+  top: 10px;
+}
+.div3{
+  width:200px;
+  height:200px;
+  background-color:#C689C6;
+  position: relative;
+  left: 500PX;
+}
+.div4{
+  width:200px;
+  height:200px;
+  background-color:#E8A0BF;
+  position: absolute;
+  left: 310px;
+}
+.div5{
+  width:200px;
+  height:200px;
+  background-color:#FCC5C0;
+  position:absolute ;
+  left: 708px;
+}
+.top1{
+  margin-left:10%;
+}
+.h1{
+  color: #C689C6;
+  font-size: 30px;
+ font-family: Montserrat;
+ position: absolute;
+  left: 500px;
+  top: 08px;
+}
+.top2{
+  font-size:10%;
+  color: #C689C6;
+  font-family: Montserrat;
+  position: absolute;
+  left: 500px;
+  top: 09px;
+}
+.T1{
+  height: 43%;
+  width: 30%;
+  background-color: #64d0d9;
+  font-size: 25px;
+  position: absolute;
+  left: 14%;
+  border-radius: 10%;
+  box-shadow: 5px 10px 30px gray;
+}
+.T2{height: 43%;
+  width: 30%;
+  background-color: #C689C6;
+  margin-left: 37%;
+  font-size: 120%;
+  position:absolute;
+  left: 20%;
+  border-radius: 10%;
+  box-shadow: 5px 10px 30px gray;
+}
+.T3{ 
+  background-color: #3eb398;
+  height: 43%;
+  width: 30%;
+  box-shadow: 5px 10px 30px gray;
+  position: absolute;
+  left: 14%;
+  top: 101%;
+  border-radius: 10%;
+}
+.T4{
+  position: absolute;
+  top: 102%;
+  left: 58%;
+  background-color: #C689C6;
+  height: 10%;
+  width: 10%;
+  box-shadow: 5px 10px 30px gray;
+  border-radius: 20%;
+}
+.Head{
+  padding-left: 10%;
+}
+.Head2{
+
+padding-left: 10%;
+}
+.Head3{
+  padding-left: 10%;
+  }
+.Head4{
+    padding: 10%;
+   
+  }
+.more1{
+  padding-bottom: 1%;
+  background-color: white;
+  height: 50px;
+  width: 200px;
+  box-shadow: 5px 10px 30px gray;
+}
+.morep1{
+    margin: 10%;
+   position: absolute;
+   top: 51%;
+}
+
